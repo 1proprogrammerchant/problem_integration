@@ -8,3 +8,4 @@ fixed modules for the dist modules and debugs with built in binary_code in swp
 
 # make a major module for the swp put-ins 
 By doing that you need to use python and json and with fixes
+![image](https://github.com/1proprogrammerchant/problem_integration/assets/126305902/bde1df37-fce2-477c-acda-6984bc9619a1)
